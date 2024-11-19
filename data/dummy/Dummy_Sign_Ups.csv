@@ -1,0 +1,21 @@
+Timestamp,First Name,Last Name,"Email (TMU, if applicable)",Gender,Faculty,Program of Study,Year of Study,Are you an international student?,Do you identify as part of a marginalized community?,How did you hear about this event?
+2024-10-08 14:37:22,Alice,Smith,alice@torontomu.ca,Female,Faculty of Engineering and Architecture,Other,1st Year,Yes,No,Instagram
+2024-10-05 9:25:13,Bob,Brown,bob@torontomu.ca,Non-binary,Ted Rogers School of Management,Other,2nd Year,No,Yes,Instagram
+2024-10-02 18:41:54,Charlie,Williams,charlie@torontomu.ca,Male,Faculty of Community Services,Biology,3rd Year,Yes,No,"Word of mouth (friends, classmates, etc..)"
+2024-10-11 12:29:03,Daisy,Taylor,daisy@torontomu.ca,Female,Faculty of Arts,Other,4th Year,No,Yes,University Website
+2024-10-07 16:15:29,Ethan,Johnson,ethan@torontomu.ca,Male,Faculty of Engineering and Architecture,Other,1st Year,Yes,No,Instagram
+2024-10-04 10:22:50,Fiona,Lee,fiona@torontomu.ca,Non-binary,Faculty of Science,Biomedical Science,3rd Year,No,Yes,Instagram
+2024-10-06 19:38:14,George,Walker,george@torontomu.ca,Male,Faculty of Science,Medical Physics,2nd Year,No,Prefer not to answer,Word of Mouth
+2024-10-03 14:03:19,Hannah,Hall,hannah@torontomu.ca,Female,Ted Rogers School of Management,Other,4th Year,No,No,Instagram
+2024-10-10 8:17:45,Ivan,Young,ivan@torontomu.ca,Male,Faculty of Engineering and Architecture,Other,1st Year,No,Yes,TikTok
+2024-10-09 15:44:32,Julia,King,julia@torontomu.ca,Female,Faculty of Arts,Other,3rd Year,No,No,LinkedIn
+2024-10-11 8:00:05,Oliver,Miller,oliver@torontomu.ca,Prefer not to answer,The Creative School,Chemistry,2nd Year,No,Yes,LinkedIn
+2024-10-12 12:30:19,Mia,Wilson,mia.wilson@torontomu.ca,Prefer not to answer,Lincoln Alexander School of Law,Biology,5th+ Year,Yes,No,Instagram
+2024-10-09 9:45:23,Liam,White,liam.white@torontomu.ca,Non-binary,Faculty of Science,Computer Science,3rd Year,Prefer not to answer,Yes,Instagram
+2024-10-10 13:22:45,Emma,Harris,emma.harris@torontomu.ca,Prefer not to answer,Faculty of Science,Medical Physics,4th Year,No,Prefer not to answer,"Word of mouth (friends, classmates, etc..)"
+2024-10-07 15:05:42,Noah,Lewis,noah.lewis@torontomu.ca,Prefer not to answer,Faculty of Science,Biomedical Science,1st Year,Yes,Yes,"Other (on campus ads, etc..)"
+2024-10-15 11:00:14,Ava,Young,ava.young@torontomu.ca,Female,Faculty of Science,Biology,2nd Year,No,Yes,Website
+2024-10-14 18:30:29,Sophia,Clark,sophia.clark@torontomu.ca,Female,Faculty of Science,Chemistry,4th Year,Prefer not to answer,No,Instagram
+2024-10-13 10:10:42,Jackson,King,jackson.king@torontomu.ca,Non-binary,The Creative School,Medical Physics,3rd Year,No,No,"Word of mouth (friends, classmates, etc..)"
+2024-10-08 16:45:55,Amelia,Scott,amelia.scott@torontomu.ca,Female,Faculty of Science,Computer Science,4th Year,No,Yes,"Other (on campus ads, etc..)"
+2024-10-17 19:25:33,Lucas,Hill,lucas.hill@torontomu.ca,Male,Yeates School of Graduate and Postdoctoral Studies,Biomedical Sciences,2nd Year,No,No,Website
